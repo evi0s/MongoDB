@@ -1,6 +1,7 @@
 # mongo
 Node.js MongoDB module
-
+**Expired**
+New repo->[kqudie](https://github.com/evi0s/kqudie)
 ## Usage
 
 ```js
